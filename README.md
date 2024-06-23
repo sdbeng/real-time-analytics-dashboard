@@ -1,4 +1,6 @@
 # real-time-analytics-dashboard
 
-Build a real-time analytics dashboard using Apache Kafka
+Real-time analytics dashboard.
+## Message Broker
+Apache Kafka
 
